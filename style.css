@@ -1,0 +1,14 @@
+.picture {
+    display: inline-block;
+    margin: 10px;
+}
+
+#gallery img {
+    height: 200px;
+    border: 1px solid black;
+}
+
+#gallery p {
+    text-align: center;
+    margin-top: 0;
+}
